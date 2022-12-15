@@ -1,0 +1,12 @@
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/bin/Debug/net6.0/CurrencyMapper.deps.json
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/bin/Debug/net6.0/CurrencyMapper.dll
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/bin/Debug/net6.0/CurrencyMapper.pdb
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/CurrencyMapper.csproj.AssemblyReference.cache
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/CurrencyMapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/CurrencyMapper.AssemblyInfoInputs.cache
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/CurrencyMapper.AssemblyInfo.cs
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/CurrencyMapper.csproj.CoreCompileInputs.cache
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/CurrencyMapper.dll
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/refint/CurrencyMapper.dll
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/CurrencyMapper.pdb
+/Users/ehtesham/personal/CurrencyMapper/CurrencyMapper/obj/Debug/net6.0/ref/CurrencyMapper.dll
