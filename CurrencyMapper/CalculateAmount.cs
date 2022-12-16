@@ -8,7 +8,7 @@ public interface ICalculateAmount
 }
 
 
-public class CalculateAmount
+public class CalculateAmount: ICalculateAmount
 {
     private readonly CurrencyMap _currencyMap;
 
